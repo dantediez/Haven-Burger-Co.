@@ -8,7 +8,7 @@
 
 title{color: brown;}
 
-body{background-image: url(images/fondo.png);
+body{background-image: url(../images/fondo.png);
     background-size: cover;
     background-repeat: repeat;
     font-family: Arial, sans-serif;}
